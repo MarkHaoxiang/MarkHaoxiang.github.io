@@ -52,12 +52,15 @@ Projects and Competitions
 Skills
 ======
 * Python
-  * Data Science - Numpy, Pandas, Pytorch
-  * Basic web development
+  * Data Science - Numpy, Pandas, Pytorch, TorchRL
 * Java
-* C, OCaml etc
+  * EMF modelling
+* Web Development (Basic Experience)
+  * HTML, CSS, Typescript, Angular
+  * Django, Spring
+* Rust, C, OCaml etc
   
 Languages
 ======
-* Chinese (Native)
 * English (Native)
+* Chinese (Native)
