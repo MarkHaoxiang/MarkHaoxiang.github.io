@@ -13,6 +13,7 @@ Education
 ======
 * Dulwich College Beijing, 2021
 * B.A in Computer Science, University of Cambridge, 2024 (expected)
+* First Class Honours in 1st and 2nd year
 
 Experience
 ======
@@ -36,6 +37,12 @@ Experience
   * Minimax Labs
   * Data visualisations for LNG trading leading to improved clarity and usability for clients
   * Java development with EMF modeling framework, Full stack development with Spring and Angular
+
+* Summer 2023 - Ongoing: Research Project
+  * Prorok Lab
+  * Intrinsic motivation and model-based reinforcement learning (RL) applied to robotics
+  * Implement RL algorithms on simulation / robots, investigate methods
+  * Undergraduate dissertation, supervised by Steven Morad
 
 Projects and Competitions
 ======
